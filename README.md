@@ -1,4 +1,4 @@
-# Elevvo Internship Projects
+# Elevvo Machine Learning Internship
 Welcome to my journey as a **Machine Learning Engineer** Intern at Elevvo! This repository is home to 4 different projects related to Machine Learning and Data Visualisation. Each project demonstrates practical implementations of ML, including **classification**, **regression**, **recommendation** and **clustering**.
 
 ## Table of Contents
